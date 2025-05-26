@@ -142,7 +142,7 @@ function App() {
               required
             >
               <option value="">Seleccione una opción</option>
-              <option value="simple">Vidrio Simple</option>
+              <option value="simples">Vidrio Simple</option>
               <option value="doble">Doble Vidrio</option>
               <option value="triple">Triple Vidrio</option>
             </select>
